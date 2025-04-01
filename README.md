@@ -173,10 +173,3 @@ To avoid leftover files and checkpoints from interfering:
 rm -r output/task*/
 ```
 
----
-
-## Done!
-You now have a complete working streaming analytics pipeline using Spark!
-
-Let me know if you want to visualize this data, export it into a dashboard, or package it for deployment.
-
